@@ -2,7 +2,7 @@ import random
 import time
 start = time.time()
 
-n=5000
+n=500000
 arr = list()
 
 for i in range(n):
