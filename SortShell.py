@@ -1,7 +1,10 @@
 import random
+import time
+start = time.time()
 
-n=500
+n=500000
 arr = list()
+
 for i in range(n):
     number = random.randint(1, 100)
     arr.append(number)
@@ -22,3 +25,6 @@ def shell_sort(arr):
 
 print('Sorted:')
 print(shell_sort(arr))
+end = time.time()
+print("The time of execution of above program is :",
+      (end-start) * 10**3, "ms")
