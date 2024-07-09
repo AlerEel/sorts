@@ -5,8 +5,6 @@ arr = list()
 for i in range(n):
     number = random.randint(1, 100)
     arr.append(number)
-print('Not sorted:')
-print(arr)
 
 def shell_sort(arr):
     step = len(arr) // 2
