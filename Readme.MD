@@ -1,7 +1,9 @@
 # Алгоритмы сортировки
 
-SortBubble.py - сортировка пузырьком
-SortInsertion.py - сортировка вставками
-SortSelection.py - сортировка выбором
-SortShaker.py - сортировка перемешиванием
-SortShell.py - сортировка Shell - the best
+#### SortBubble.py - сортировка пузырьком
+#### SortInsertion.py - сортировка вставками
+#### SortSelection.py - сортировка выбором
+#### SortShaker.py - сортировка перемешиванием
+#### SortMerge.py - сортировка слиянием
+#### SortShell.py - сортировка Shell
+#### factorial.py - пример рекурсии для расчета факториала и чисел фибоначчи
